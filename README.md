@@ -1,5 +1,5 @@
 # FootBus
-This was the project we did as 1st place winner team in the Hackathon by Ultrahack. 
+This was the project we did as a result led us the 1st place winner team in the Hackathon by Ultrahack. 
 
 The mission given was to solve Bay area congestion. We decided to target the congestion knot around school during the morning as the data showed over 20~30% morning traffic was caused by school drop-off. So we came up the solution to decentralize the drop-off with multiple dropping points, where each one will have guardians for walking with students to finish the last-mile travel together. 
 
