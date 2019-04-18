@@ -5,4 +5,4 @@ The mission given was to solve Bay area congestion. We decided to target the con
 
 During the 3 days 2 nights Hackathon, I was mainly responosible for analyzing user scenarios, designing the user interfaces, and visualizing interactive mock up. Sketcha and Principle were my tools. My teammates were using Andriod Studio and AWS to connect the Android API and store data into database.  
 
-Please see the link here for more detail about the Hackathon: https://ultrahack.org/commutehack2018. 
+Please see the link here for more detail about the Hackathon: https://www.eitdigital.eu/newsroom/news/article/hacking-the-bay-area-traffic-congestion-the-eit-digital-deep-hack-in-silicon-valley/
